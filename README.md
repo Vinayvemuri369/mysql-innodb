@@ -59,4 +59,5 @@ S) Run the Backup Script on the slave
 -  < kubectl create -f cron-backup.yaml >
 
 this works in enterprise, for mysql backup
+done
 
